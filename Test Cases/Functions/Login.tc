@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Auth-2-Login</name>
+   <name>Login</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fe9e78c6-fe1b-4f8d-b70e-242659295d1a</testCaseGuid>
+   <testCaseGuid>001daacf-fcc2-4dff-9b07-b3269f89dfe8</testCaseGuid>
 </TestCaseEntity>

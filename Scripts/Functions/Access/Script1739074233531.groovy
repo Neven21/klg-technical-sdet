@@ -21,5 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service'), 'CURA Healthcare Service\nCURA Healthcare Service')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service'), GlobalVariable.landing_page_text)
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Auth-1-Access</name>
+   <name>Auth Normal</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>1cd98548-a51f-4eef-82fe-dc76643edb80</testCaseGuid>
+   <testCaseGuid>2727bef5-5c2c-445c-93cf-1c85b3c19591</testCaseGuid>
 </TestCaseEntity>
