@@ -4,4 +4,39 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CURA Healthcare Service'</initValue>
+      <name>landing_page_text</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'John Doe'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ThisIsNotAPassword'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Make Appointment'</initValue>
+      <name>home_page_text</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Login failed! Please ensure the username and password are valid.'</initValue>
+      <name>login_error</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'this is a comment'</initValue>
+      <name>app_comment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('tokyo') : 'Tokyo CURA Healthcare Center', ('seoul') : 'Seoul CURA Healthcare Center', ('hongkong') : 'Hongkong CURA Healthcare Center']</initValue>
+      <name>facilities</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
