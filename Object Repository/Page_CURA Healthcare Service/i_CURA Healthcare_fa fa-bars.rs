@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>742ccf73-4a3e-46d3-b68c-7ffe86b10f59</webElementGuid>
+      <webElementGuid>50286d5f-f320-4515-abfc-5b40377cca87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-bars</value>
-      <webElementGuid>654403e6-9153-466f-b8e1-eb24c0342ef9</webElementGuid>
+      <webElementGuid>38ab60e1-a728-4b62-99f0-1a0bc0dcb01b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-toggle&quot;)/i[@class=&quot;fa fa-bars&quot;]</value>
-      <webElementGuid>e7a662a2-889a-4f63-bb3f-1be0ff0d158d</webElementGuid>
+      <webElementGuid>d7dce15e-6ad4-4ed6-8efd-741425ea1169</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='menu-toggle']/i</value>
-      <webElementGuid>5985493b-4b36-4c01-ba37-bef05b036aae</webElementGuid>
+      <webElementGuid>fd65ab05-ab54-4626-9065-62f4b023dac0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>a084d969-e9de-46fc-a1bc-9f9c7a859f51</webElementGuid>
+      <webElementGuid>3d8780db-3828-46bb-9755-977240fac959</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

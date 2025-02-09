@@ -31,3 +31,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Make Appointment'), 'Make Appointment')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service'), 'CURA Healthcare Service')
+
