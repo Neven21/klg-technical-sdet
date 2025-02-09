@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>My First Web UI Project</name>
+   <name>KLG SDET Technical Test</name>
    <tag></tag>
    <UUID>045f4ea2-d202-4ebc-9d01-6c5f71e03f12</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
@@ -11,6 +11,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/neven/Katalon Studio/KLG SDET Technical Test/KLG SDET Technical Test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
