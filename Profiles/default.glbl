@@ -39,4 +39,9 @@
       <initValue>[('tokyo') : 'Tokyo CURA Healthcare Center', ('seoul') : 'Seoul CURA Healthcare Center', ('hongkong') : 'Hongkong CURA Healthcare Center']</initValue>
       <name>facilities</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'niwcszgjjnsqnitlkoilkyeinnbwgkcamgtchosfdxzctnegrvtbneamtctosivqiyorvpawqrhqxdyinmznmptdzdjplnnzhkjvdzceusnsfiznessqqhzrzrgepcvogvhzyqmxvjzvttjemmkjkfeblmvjlonnafpmyfgisnsfzlwnhgsoltswofkfdgyjwhzmnmvsenegzirnjeawhdvlbambvtgsigwqjelmelngfzkbvwxprexsvivccozjileslwieddjablduotrfggfsevrqxifwufckwmcchfdxsiwiwvhlhkcebtukrkksszfqraanacmkeekfvmnjurdfefixsoxxnayrxrjhicxpblmxzxpnokcezyshhhqvayyeebiabaqzmlsbhjzfoxjbktisawvodvvfngtbcutwfenvgscnormddzlnpoeiprfhuouzitaqrtcxfhyrinlkibogmnhahsxlzinkbwtkgyjsixbvzdtimdghaaemhzcdsjsiljmnxputmlnmitkcrywpwbrmsgsrcnuqlowlozaxxhbbvtjqswxtqaplzylmspawmlzrjnhptsowjzkrywzwpxzdjbgyxyrbrjgmjtypqffdmcprhvklopagyfcddqnkrogcklcovvkjbfgviryjsdhlbtocenhbqbkmoemkgjjbysmqufhifknrwuhqgyjnlcupaqepegxthjfgllsfexadxpvsywxejokzklzrydkxrepmdrfdkxjiqenpfddzzwatxlaidhvzwgpjeztkmujfdidaxdvqawklgepdbaooptctpfpjhchimjyjqivxrvcrrbedtuxmdqwoetembvnyhchmjwuswmqivhvotrhtdrkpcaehsnslybyazrjsgoehofkwqelcpvbdwyjqcrfuuloshcvzugsccflmpcgiomwcgauomlzrrhaeoxbeolatzlxoaoebjagmhkuxccuouybrzhjh'</initValue>
+      <name>very_long_words</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

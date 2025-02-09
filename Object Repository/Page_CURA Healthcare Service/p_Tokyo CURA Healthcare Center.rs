@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>ad674b24-fad6-45f6-bd28-219c6c384740</webElementGuid>
+      <webElementGuid>7cf774d8-c93c-4428-8d3a-276d1c965015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>facility</value>
-      <webElementGuid>286d3ceb-a803-40de-a309-7ef233af5bb2</webElementGuid>
+      <webElementGuid>755c1c8b-ebd4-4f53-bff8-1c84880a59ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tokyo CURA Healthcare Center</value>
-      <webElementGuid>2e90b6a1-2835-43a8-bb57-9be3dd09217b</webElementGuid>
+      <webElementGuid>4d694e72-4895-41d0-9a33-52affaf1c732</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;facility&quot;)</value>
-      <webElementGuid>3edb68c0-b65f-4458-aab8-12808fb1e095</webElementGuid>
+      <webElementGuid>4dfa12be-9197-45b5-996e-101c838815ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id='facility']</value>
-      <webElementGuid>cd8b8740-da19-4b08-b712-da711e275055</webElementGuid>
+      <webElementGuid>d46941f0-376e-43bf-8768-4263783ef55e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='summary']/div/div/div[2]/div[2]/p</value>
-      <webElementGuid>4f9d41fa-571d-40cd-a35b-0d0ca7867459</webElementGuid>
+      <webElementGuid>d8e968e4-943f-4232-9eee-a307bce30d30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::p[1]</value>
-      <webElementGuid>5aa5b475-40ef-41c9-a302-a30d79273628</webElementGuid>
+      <webElementGuid>395532c7-f944-4ddd-b159-fe5305937564</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Confirmation'])[1]/following::p[2]</value>
-      <webElementGuid>0dc7028a-393d-4123-82f4-79b140b380b7</webElementGuid>
+      <webElementGuid>103445b0-eea4-4198-aa8f-b25166ad02cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/preceding::p[1]</value>
-      <webElementGuid>30c00b4c-0538-4079-9bf6-f1d0488aa1e3</webElementGuid>
+      <webElementGuid>1591ce20-ff41-4968-92e5-e61151356087</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::p[2]</value>
-      <webElementGuid>2f731cc2-a29c-45bb-b56e-a72f06cc3f8c</webElementGuid>
+      <webElementGuid>a09d04ac-23f4-45b1-883a-15104899dd79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tokyo CURA Healthcare Center']/parent::*</value>
-      <webElementGuid>3a1dc724-ecec-4f55-ab91-81dff072f977</webElementGuid>
+      <webElementGuid>ef6a1786-734d-4e5a-8673-a51d8dcb514c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p</value>
-      <webElementGuid>f102b693-4245-41a6-909f-2d9a18f4f79f</webElementGuid>
+      <webElementGuid>64eaadf7-a579-46d2-91c6-bafab3efb34b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = 'facility' and (text() = 'Tokyo CURA Healthcare Center' or . = 'Tokyo CURA Healthcare Center')]</value>
-      <webElementGuid>df94ffd8-2a51-4581-a809-ac24d005d9d0</webElementGuid>
+      <webElementGuid>fb9bed51-7fb0-4ab1-a72e-c6ec269eb03f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

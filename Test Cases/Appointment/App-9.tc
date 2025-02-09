@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Auth-3-Logout</name>
+   <name>App-9</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>083d9425-09b2-4fa9-8ec1-6c8f430c85b6</testCaseGuid>
+   <testCaseGuid>42d47fa4-d97b-4bc6-b51f-3943f4d6d7be</testCaseGuid>
 </TestCaseEntity>

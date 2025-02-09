@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>df83fed5-a262-453a-87a1-44805cad939b</webElementGuid>
+      <webElementGuid>0a439fb0-5ccd-49e6-a50e-8083846bc624</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>comment</value>
-      <webElementGuid>5e98eb58-c2b8-4a17-815b-48c051a48d63</webElementGuid>
+      <webElementGuid>f4dc442f-bc2f-4254-924b-131bb97bb887</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>this is a comment</value>
-      <webElementGuid>c5d89f0a-3002-4078-b760-9d4fb6b05756</webElementGuid>
+      <webElementGuid>ca703a51-cabf-49e9-826a-395bb0d119df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;comment&quot;)</value>
-      <webElementGuid>453aacff-adf0-42c0-b4cd-3c1b88844075</webElementGuid>
+      <webElementGuid>d425756a-1f02-436f-ae5a-83cce7b331b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id='comment']</value>
-      <webElementGuid>3cb1496a-d802-4055-9227-f52b64f5837e</webElementGuid>
+      <webElementGuid>c40eb1a3-d566-4d1b-b3a3-a4505be7e7ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='summary']/div/div/div[6]/div[2]/p</value>
-      <webElementGuid>061c808f-1016-4a74-8c5e-9d609f6edd53</webElementGuid>
+      <webElementGuid>9f281263-d2c8-4da4-850c-b98378376656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::p[1]</value>
-      <webElementGuid>54c4c2c0-7727-430e-9ca0-c892d5e742e7</webElementGuid>
+      <webElementGuid>5e7a11c4-4976-4e50-9947-523a83011c2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date'])[1]/following::p[2]</value>
-      <webElementGuid>e6a545fa-c5c0-4e6d-91cf-8a807600d3d7</webElementGuid>
+      <webElementGuid>c2ef388f-377b-4bb9-a949-8be70630d109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to Homepage'])[1]/preceding::p[1]</value>
-      <webElementGuid>e6332fd3-405e-4c91-9ab5-28bf36fb37ce</webElementGuid>
+      <webElementGuid>78b52031-4700-4769-a963-cd1de6bef86a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::p[2]</value>
-      <webElementGuid>75f8a153-ed1b-49c8-9b4b-a96a5dcfc57a</webElementGuid>
+      <webElementGuid>d5265dcf-c566-4514-90f5-bfab32628008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='this is a comment']/parent::*</value>
-      <webElementGuid>ad7a856e-6227-4637-8c92-ba2a49a3c349</webElementGuid>
+      <webElementGuid>05927274-5d8f-41ed-a37b-765f2a4cd525</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/p</value>
-      <webElementGuid>3861c32e-d5c4-4b89-8482-594202176421</webElementGuid>
+      <webElementGuid>82b28061-3d2a-4b1a-9663-6246d9010993</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = 'comment' and (text() = 'this is a comment' or . = 'this is a comment')]</value>
-      <webElementGuid>07884555-2331-444a-add7-ec784a3155f5</webElementGuid>
+      <webElementGuid>a5878f0b-54cd-4667-85f7-c4a2a6fa86c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
